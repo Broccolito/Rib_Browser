@@ -20,7 +20,7 @@ page_header = dashboardHeaderPlus(title = "Rib Browser",
                                                  text = "Visit https://github.com/Broccolito",
                                                  icon = icon("truck"),
                                                  status = "success",
-                                                 href = "https://github.com/Broccolito"
+                                                 href = "https://github.com/Broccolito/Rib_Browser"
                                                )
                                   ),
                                   

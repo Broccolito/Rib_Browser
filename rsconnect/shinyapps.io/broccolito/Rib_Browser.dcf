@@ -1,0 +1,12 @@
+name: Rib_Browser
+title: Rib_Browser
+username:
+account: broccolito
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 769069
+bundleId: 1919012
+url: https://broccolito.shinyapps.io/Rib_Browser/
+when: 1551855571.02004
+asMultiple: FALSE
+asStatic: FALSE
