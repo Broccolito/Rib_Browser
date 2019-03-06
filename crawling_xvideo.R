@@ -1,5 +1,5 @@
 #This function will take in keyword and return html code in iframe format
-crawling_xvideo = function(keyword = "newest", page_max = 1, suppress_printing = FALSE){
+crawling_xvideo = function(keyword = "newest", page_max = 1, suppress_printing = TRUE){
   
   #Glue vector of strings as one vector
   glue = function(string, collapse = ""){
